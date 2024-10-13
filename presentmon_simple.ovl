@@ -395,7 +395,7 @@ PositionY=-8
 ExtentX=-6
 ExtentY=-1
 ExtentOrigin=2
-TextColor=80C000,,75,FF0000,75,(GPU1 usage,0)
+TextColor=80C000,,100,FF0000,100,(GPU1 usage,0)
 [Layer19]
 Name=Background
 Text=%GPU1 power%
